@@ -1,3 +1,5 @@
+https://wazuh.com/blog/detecting-hoaxshell-with-wazuh/
+
 <group name="win-powershell,">
 
   <rule id="100500" level="0">
